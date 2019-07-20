@@ -9,3 +9,4 @@
     mail($to,$subject,$message, $headers);
     echo "The email message was sent.";
 );
+?>
