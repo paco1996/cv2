@@ -37,6 +37,24 @@ a, a:hover, a:focus {
 	color: inherit;
 }
 
+/*____________________________________*/
+#flotante
+    {
+        position: absolute;
+        display:none;
+        border-radius: 7%;
+        font-family: 'PT Sans Narrow', sans-serif;
+        color: white;
+        font-size:1em;
+        
+        background-color:black;
+        padding:3px;
+        z-index:1;
+        list-style-type: circle;
+       
+    }
+/*____________________________________*/
+
 ul {
 	list-style: none;
 }
