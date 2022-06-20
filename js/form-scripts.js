@@ -11,7 +11,7 @@ $("#contactForm").validator().on("submit", function (event) {
 });
 
 (function(){
-                 emailjs.init("user_v8KTzHwITHzM4e1b0UJIv");
+                 emailjs.init("2naZ5JjjZ4Ty9Vl18");
              })();
 
 function submitForm(){
