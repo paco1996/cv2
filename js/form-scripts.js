@@ -29,7 +29,7 @@ function submitForm(){
                             message_html: this.message_html=message,
                         };
                         
-                        emailjs.send("gmail", "template_XxEillND_clone", data)
+                        emailjs.send("gmail", "template_c6xqa73", data)
                         
                         .then(function(response) {
                             if(response.text === 'OK'){
